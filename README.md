@@ -1,7 +1,6 @@
 # Portfolio
 
 
-Tools:
 Jira,
 Confluence,
 TestRail,
