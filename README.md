@@ -15,7 +15,3 @@ Finding Bugs
 Reporting Bugs
 Creating Test Cases
 Creating Test Scenarios
-Finding CSS Selectors
-Finding xPaths
-Creating Decision Tables
-Understanding the SCRUM Framework
