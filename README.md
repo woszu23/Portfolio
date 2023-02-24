@@ -3,7 +3,6 @@
 
 Jira,
 Confluence,
-
 GIT,
 Tech skills,
 Basics of JAVASCRIPT(CYPRESS),
