@@ -1,9 +1,9 @@
 # Portfolio
 
 
-Jira,aaaa
+Jira,
 Confluence,
-TestRail,
+
 GIT,
 Tech skills,
 Basics of JAVASCRIPT(CYPRESS),
