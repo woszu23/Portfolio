@@ -1,6 +1,8 @@
 # Portfolio
-
-
+I am a software tester with one year
+experience who develops in the field of
+automated testing and programming.
+# Tech and Skills
 Jira,
 Confluence,
 GIT,
