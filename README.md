@@ -20,7 +20,8 @@ My name is Maciej. I found my passion for testing at the "Software Tester" cours
   - ability to work in a team 
   
   - communicativeness 
-  
+  # Project IT
+  https://github.com/woszu23/Portfolio/blob/main/Bug%20Reports
 
  # Courses
   - testuj.pl "Tester Oprogramowania" 
