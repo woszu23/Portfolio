@@ -13,4 +13,18 @@ My name is Maciej. I found my passion for testing at the "Software Tester" cours
   
   - Test management
 
+ # Soft skills
 
+  - flexibility 
+  - adapts quickly to changes, new tasks
+  - ability to work in a team 
+  
+  - communicativeness 
+  - easily establishes new contacts
+
+ # Courses
+  - testuj.pl "Tester Oprogramowania" 
+  - udemy.com API testing in Postman
+  
+  - udemy.com Kurs Jira od postaw- zarządzanie projektami
+  - udemy.com Praktyczny kurs testowania oprogramowania
