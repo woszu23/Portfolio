@@ -3,8 +3,7 @@ My name is Maciej. I found my passion for testing at the "Software Tester" cours
 # Tech Skills
 Jira,
 Confluence,
-GIT,
-Tech skills,
+
 - SQL
   - Software testing
   - Creating test cases
