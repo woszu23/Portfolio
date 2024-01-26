@@ -16,11 +16,11 @@ My name is Maciej. I found my passion for testing at the "Software Tester" cours
  # Soft skills
 
   - flexibility 
-  - adapts quickly to changes, new tasks
+  - adapts quickly to changes
   - ability to work in a team 
   
   - communicativeness 
-  - easily establishes new contacts
+  
 
  # Courses
   - testuj.pl "Tester Oprogramowania" 
