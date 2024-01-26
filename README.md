@@ -25,6 +25,6 @@ My name is Maciej. I found my passion for testing at the "Software Tester" cours
  # Courses
   - testuj.pl "Tester Oprogramowania" 
   - udemy.com API testing in Postman
-  
+  - Software Academy Development "Python od podstaw"
   - udemy.com Kurs Jira od postaw- zarządzanie projektami
   - udemy.com Praktyczny kurs testowania oprogramowania
